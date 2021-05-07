@@ -1,0 +1,44 @@
+/* COlORES LAYOUT */
+:root{
+    --color_logo: #4FF4FF;
+    --color_nav: #A882F9;
+    --color_aside: #FD2A5D;
+    --color_sectionProductos: #E4F432;
+    --color_sectionGaleria: #FEAE35;
+    --color_footer: #5AFF4B;
+}
+
+/* COLORS HEADER */
+
+.header__logo{
+    background-color: var(--color_logo);
+}
+
+.header__menu{
+    background-color: var(--color_nav);
+}
+
+/* ************************ */
+
+/* COLORS MAIN */
+
+.main__aside__publicidad{
+    background-color: var(--color_aside);
+}
+
+.main__section__productos{
+    background-color: var(--color_sectionProductos);
+}
+
+.main__section__galeria{
+    background-color: var(--color_sectionGaleria);
+}
+
+/* ************************ */
+
+/* COLORS FOOTER */
+.grid__container__footer{
+    background-color: var(--color_footer);
+}
+
+

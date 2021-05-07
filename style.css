@@ -1,0 +1,8 @@
+/* RESET ESTILOS NAVEGADOR*/
+@import url(./css/normalize.css);
+@import url(./css/reset.css);
+
+/* ESTILOS */
+@import url(./css/color.css);
+@import url(./css/layout.css);
+@import url(./css/grid.css);

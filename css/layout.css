@@ -1,0 +1,62 @@
+/* FORMATO DE CADA CONTENEDOR */
+/* SECTION GENERAL*/
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.grid__container__general{
+    width: 1366px;
+}
+/* *********************************** */
+
+/* FORMATO HEADER */
+/* Centrado de los elementos */
+.header__logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* *********************************** */
+
+/* FORMATO MAIN */
+/* Centrado de los elementos */
+
+.main__aside__publicidad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__section__productos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__section__galeria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* *********************************** */
+
+/* FORMATO FOOTER */
+/* Centrado de los elementos */
+
+.grid__container__footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* *********************************** */
